@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Unlisted pages (manufacturers, buyers, partners, investors) are deliberately
+# not listed here and carry noindex. noindex is not security: anyone holding
+# the link can read them, so keep nothing sensitive on them.
